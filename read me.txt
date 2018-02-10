@@ -1,0 +1,16 @@
+sign up
+can't sign up with duplicate user name
+
+post
+ -add new post
+ -edit post
+ -delete post
+
+profile
+edit profile just click the username on profile page
+
+
+
+limatations
+no validation
+password not encrypt
